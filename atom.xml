@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://alkemistninja.github.io/atom.xml" rel="self"/>
+  <link href="http://alkemistninja.github.io/"/>
+  <updated>2017-06-22T14:01:09+00:00</updated>
+  <id>http://alkemistninja.github.io/</id>
+  <author>
+    <name><![CDATA[Alkemist]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://alkemistninja.github.io/blog/2017/06/22/first-post/"/>
+    <updated>2017-06-22T12:04:20+00:00</updated>
+    <id>http://alkemistninja.github.io/blog/2017/06/22/first-post</id>
+    <content type="html"><![CDATA[<p>categories: [Testing, First]</p>
+]]></content>
+  </entry>
+  
+</feed>
